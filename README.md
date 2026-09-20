@@ -43,6 +43,11 @@ The `Contact` model contains:
 * JSON
 * .NET 10
 
+## Screenshots
+<img width="290" height="306" alt="image" src="https://github.com/user-attachments/assets/0d93540d-a3c7-4900-9907-aad0b7e5da59" />
+
+<img width="249" height="269" alt="image" src="https://github.com/user-attachments/assets/959840c6-8a0a-4b62-b501-93ab89bb6782" />
+
 ## Project Structure
 
 ```text
